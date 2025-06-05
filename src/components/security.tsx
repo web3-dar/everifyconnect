@@ -32,6 +32,8 @@ const Security: React.FC = () => {
     "Graduated Month & Year (High School)"
   ];
 
+  
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newAnswers = [...answers];
     newAnswers[step] = e.target.value;
